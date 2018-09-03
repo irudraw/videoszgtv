@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'zgraficc_videoflix',
-	'password' => '977552',
-	'database' => 'zgraficc_videoflix',
+	'hostname' => 'ec2-54-227-244-12.compute-1.amazonaws.com',
+	'username' => 'yixmtfvjvadnxp',
+	'password' => 'f19ccdeac1eba3c109d5655e1c3d1eb965ae1733a61a67a4a38a42156a8058a4',
+	'database' => 'd4en1u6d1a7bop',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
